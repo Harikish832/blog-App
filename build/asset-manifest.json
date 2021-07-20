@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blog-app-by-hari/static/css/main.998d6a7d.chunk.css",
+    "main.js": "/blog-app-by-hari/static/js/main.aa184705.chunk.js",
+    "main.js.map": "/blog-app-by-hari/static/js/main.aa184705.chunk.js.map",
+    "runtime-main.js": "/blog-app-by-hari/static/js/runtime-main.4daa138d.js",
+    "runtime-main.js.map": "/blog-app-by-hari/static/js/runtime-main.4daa138d.js.map",
+    "static/js/2.4ec555f6.chunk.js": "/blog-app-by-hari/static/js/2.4ec555f6.chunk.js",
+    "static/js/2.4ec555f6.chunk.js.map": "/blog-app-by-hari/static/js/2.4ec555f6.chunk.js.map",
+    "index.html": "/blog-app-by-hari/index.html",
+    "static/css/main.998d6a7d.chunk.css.map": "/blog-app-by-hari/static/css/main.998d6a7d.chunk.css.map",
+    "static/js/2.4ec555f6.chunk.js.LICENSE.txt": "/blog-app-by-hari/static/js/2.4ec555f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4daa138d.js",
+    "static/js/2.4ec555f6.chunk.js",
+    "static/css/main.998d6a7d.chunk.css",
+    "static/js/main.aa184705.chunk.js"
+  ]
+}
